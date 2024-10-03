@@ -1,0 +1,12 @@
+1. We are being asked to implement Dijkstra's Shortest Path Algorithm in order to read the dataset from Project Sidewalk and generate the shortest path. This means we will need a greater
+greater understanding of Dijkstra's Algorithm, including how to set it up as well as any other helper methods needed. This will also serve as our most "real-world" program, as we will be using
+data from outside and applying it to a real world problem.
+
+2. We know that Dijksta's algorithm will be a challenge, so understanding how to implement it is something we already have in mind. However, another possibly bigger challenge will be
+understanding how to extract the data from the dataset effiently so that we can get it to our algorithm. 
+
+3. Per usual, our group with be meeting on Tuesdays and Thursdays from 2pm-4pm, with additional time added by meeting on other days or staying in the lab longer on the days already planned. Any 
+changes to this schedule will be made as deemed fit along the project progression.
+
+4. There are many resources we can draw from in case we reach a roadblock. One of the most accessible is the CS tutors who are availible during weekdays from 4pm-7pm, which is right after our
+planned hours. Another resources is the Java API notes that can be found at Oracle's website online. Lastly, we can always reach out the the professor during her office hours for our class. 

@@ -1,0 +1,13 @@
+1. There are no non-functional aspects of our code, and all methods appear to be running efficently.
+
+2. I think the most important lesson that we leanred was to be careful with variable naming as we ran into a 
+issue during the implentation of compute that probaly would have been avoided with a better or more descriptive
+variable naming scheme. We also devolped a better understanding of how to make use of multiple data structures
+at once and use them as a interconnected system in order to solve a common goal. Finally this project  also helped us
+understand Dijkstra’s algorithm on a deeper level as implementing a concept into actual code will always 
+stregthen your understanding of that topic.
+
+3. I would say that the most challenging aspect of this program was easily the implementation of compute.
+This was the most complex and most actual coding heavy aspect of the project. Making sure that you were 
+effictively keeping track of the differnt data structures and updating them with the correct information
+was surely that hardest and longest challenge of this project.
