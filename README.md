@@ -1,13 +1,13 @@
 # Project Sidewalk Analyzer
 ## Summary
-This Java program is a command-line tool that implements Dijkstra's Algorithm to analyze Greater Seattle street accessibility data. The program parses both text files and CSV of sidewalk
-accessibility scores from Project Sidewalk, found here:
-https://sidewalk-sea.cs.washington.edu/.
-This repo comes with some test files, and instruction for setup can be followed in the README.
+This Java program is a command-line tool that implements Dijkstra's Algorithm to analyze Greater Seattle street accessibility data. The program parses text files and CSV files of sidewalk
+accessibility scores from Project Sidewalk, which can be found here:
+https://sidewalk-sea.cs.washington.edu/. 
+This repo comes with some test files, and instructions for setup can be followed in the README.
 
 ## Setup
 1. Clone the repo in your desired directory.
-2. To Compile, ensure you are in the same directory and run this following command in the command line:
+2. To Compile, ensure you are in the same directory and run the following command in the command line:
 ```
     javac -cp .:heap.jar ShortestPaths.java
 ```
@@ -27,4 +27,4 @@ For Example:
 ```
 java ShortestPaths db sidewalkData.csv 200 500
 ```
-Hope you enjoy!
+I hope you enjoy it!
