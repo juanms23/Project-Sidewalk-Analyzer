@@ -2,7 +2,7 @@
 ## Summary
 This Java program is a command-line tool that implements Dijkstra's Algorithm to analyze Greater Seattle street accessibility data. The program parses both text files and CSV of sidewalk
 accessibility scores from Project Sidewalk, found here:
-https://sidewalk-sea.cs.washington.edu/
+https://sidewalk-sea.cs.washington.edu/.
 This repo comes with some test files, and instruction for setup can be followed in the README.
 
 ## Setup
